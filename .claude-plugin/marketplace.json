@@ -1,0 +1,17 @@
+{
+  "name": "manicode",
+  "owner": {
+    "name": "Manicode Worldwide, Inc."
+  },
+  "description": "Manicode Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "forge",
+      "source": {
+        "source": "github",
+        "repo": "manicode/forge-claude-code-plugin"
+      },
+      "description": "Detects the repo's stack and delivers matching Manicode prompts at the start of each chat."
+    }
+  ]
+}
