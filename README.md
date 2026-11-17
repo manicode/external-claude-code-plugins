@@ -4,15 +4,6 @@
 
 The `manicode` [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces). It lists Manicode's plugins for customers: today, `forge`.
 
-## Install forge
-
-```bash
-claude plugin marketplace add manicode/external-claude-code-plugins
-claude plugin install forge@manicode
-```
-
-Set the API key as described in the [forge plugin README](https://github.com/manicode/forge-claude-code-plugin#api-key).
-
 ## Add a plugin
 
 1. Publish the plugin to its own repo under `manicode`.
