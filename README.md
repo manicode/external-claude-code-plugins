@@ -4,9 +4,6 @@
 
 The `manicode` [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces). It lists Manicode's plugins for customers: today, `forge`.
 
-> [!IMPORTANT]
-> This repo is private for now. Adding the marketplace needs GitHub access to the `manicode` org.
-
 ## Install forge
 
 ```bash
